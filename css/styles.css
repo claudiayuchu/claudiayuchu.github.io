@@ -1,0 +1,207 @@
+
+h1 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+h3 {
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+p {
+  text-color: #8f8f8f;
+
+}
+
+
+/* CLASS */
+
+.navbar-brand {
+  font-family: 'Righteous', sans-serif;
+  font-size: 2rem;
+}
+
+.navbar-icon {
+  margin: 1rem;
+
+}
+
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  background-color: #64B5F6;
+  color: #ffffff;
+}
+
+
+.title-image {
+  width: 100%;
+  height: 100%;
+
+
+}
+
+
+.title-section {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+
+.download-button {
+  margin-top: 1rem;
+
+}
+
+
+
+.features-icon {
+  color: #f9c386;
+  margin-bottom: 1rem;
+}
+
+.features-icon:hover {
+  color: #f6c065;
+}
+
+
+.nav-pills .nav-link.active {
+  background-color: #f9c386;
+}
+
+.nav-link:hover {
+  background-color: #f6c065;
+}
+
+
+
+.ipad {
+  margin: 2%;
+
+}
+
+.tipcard {
+  width: 40%;
+}
+
+.socials {
+  margin-bottom: 2rem;
+}
+
+
+.footer-icons {
+  color: #8f8f8f;
+  padding: 1rem;
+
+}
+
+
+.title-page {
+    padding: 3%;
+}
+
+/* ABOUT US PAGE */
+
+.about {
+  padding: 3% 20% 3% 20%;
+
+}
+
+.profile-image {
+  width: 40%;
+  margin: 2%;
+}
+
+/* ID tags */
+
+
+
+#title {
+  background-color: #8fbcbc;
+  color: white;
+  position: relative;
+  z-index: 1;
+
+}
+
+
+#features {
+    background-color: white;
+    color: #374045;
+    text-align: center;
+    padding: 2% 8% 3% 8%;
+
+}
+
+
+#explore {
+  background-color:	#f0f0f5;
+  color: #374045;
+  text-align: center;
+  padding: 3% 8% 3% 8%;
+}
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #7a9eaf;
+  color: #ffffff;
+  padding: 3% 8% 3% 8%;
+  text-align: center;
+
+}
+
+#testimonials .testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 30px 20px 20px;
+}
+
+
+#testimonials .carousel-item {
+  padding: 2% 5% 5% 3%;
+
+}
+
+#testimonials h2 {
+  font-size: 2.5rem;
+}
+
+
+
+/* CTA */
+
+#cta {
+  text-align: center;
+  padding: 3% 8% 3% 8%;
+  color: #374045;
+}
+
+
+/* Footer */
+
+#footer {
+  text-align: center;
+  padding: 3% 8% 3% 8%;
+  background-color: #f0f0f5;
+}
